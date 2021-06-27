@@ -5,7 +5,7 @@ import random
 name = input("What is your name? ") 
 # Here the user is asked to enter the name first 
 
-print("Good Luck ! ", name) 
+print("Good Luck !!", name) 
 
 words = ['rainbow', 'computer', 'science', 'programming', 
 		'python', 'mathematics', 'player', 'condition', 
