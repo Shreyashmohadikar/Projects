@@ -1,7 +1,6 @@
 #Implementation Of CIFAR10 Using TensorFlow & keras Sequential API In Python
 #Import TensorFlow
 import tensorflow as tf
-
 from tensorflow.keras import datasets, layers, models
 import matplotlib.pyplot as plt
 
